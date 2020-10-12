@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&display=swap');
+html,body{
+    margin:0;
+    padding:0;
+}
+.fondImage{
+    background-image:url("../img/bg-masthead.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100vh;
+    width:100%;
+}
+
+h1{
+    font-size:6em;
+    margin-bottom:10px;
+    font-weight: bold;
+    margin-top:400px;
+}
+
+h3{
+    font-style:italic;
+    font-size:2em;
+    font-weight:bold;
+}
+.text2{font-style:normal;font-size:3em;}
+
+.text3{color:#fdc934;font-size:1.2em;}
+
+.aligntext{
+    padding-top:10vh;
+}
+button.btn{
+    font-size:1rem;
+    margin-top:5vh;
+    width:180px;
+    height:60px;
+    font-weight: bold;;
+}
+
+.penche{
+    font-style:italic;
+}
+.text1{
+    font-size:4em;
+}
+.fondImage2{
+    background-image:url("../img/imgjaune-2.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:50vh;
+    width:100%;
+}
+
+
+
+.map{
+    width:100%;
+}
+
+iframe{
+    width:100%;
+}
+
+.zoomimg:hover{zoom:0.5;}
